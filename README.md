@@ -2,4 +2,4 @@
 
 * [Лекции](http://uneex.ru/LecturesCMC/PythonDevelopment2020)
 
-* [Программа семинарских занятий](https://cmc-python-dev.github.io/adv-python-dev/doc/index.html)
+* [Программа семинарских занятий](https://cmc-python-dev.github.io/python2020/doc/index.html)
